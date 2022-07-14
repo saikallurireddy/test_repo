@@ -6,11 +6,6 @@
 # MAGIC </div>
 
 # COMMAND ----------
-
-print("HELLO SAI")
-
-# COMMAND ----------
-
 # MAGIC %md
 # MAGIC   
 # MAGIC # Create and Manage Interactive Clusters
